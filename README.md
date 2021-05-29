@@ -15,11 +15,11 @@ Here are some instructions on how the game is to be played:
 
 1.How to select the two heroes? 
 
-Once you open the game, the 5 heroes (with their photos) are displayed on the screen as buttons.  
+     Once you open the game, the 5 heroes (with their photos) are displayed on the screen as buttons.  
 
-1-Press on any of the hero buttons to select the first hero. 
+     1-Press on any of the hero buttons to select the first hero. 
 
-2-Press on any of the hero buttons to select the second hero. The game then starts. 
+     2-Press on any of the hero buttons to select the second hero. The game then starts. 
 
  
 
@@ -27,11 +27,11 @@ Once you open the game, the 5 heroes (with their photos) are displayed on the sc
 
 2.How the current hero plays a minion? 
 
-1-Press on any minion in your hand. 
+     1-Press on any minion in your hand. 
 
-2-Once you press, the card of the minion will be displayed in a larger scale (zoom panel) in order to see the properties of the card more clearly. 
+     2-Once you press, the card of the minion will be displayed in a larger scale (zoom panel) in order to see the properties of the card more clearly. 
 
-3-If you decided on playing the minion, press on the zoom panel itself. The minion will be added to the field; Otherwise, press on any other button and the zoom panel will disappear. 
+     3-If you decided on playing the minion, press on the zoom panel itself. The minion will be added to the field; Otherwise, press on any other button and the zoom panel will            disappear. 
 
  
 
@@ -39,27 +39,27 @@ Once you open the game, the 5 heroes (with their photos) are displayed on the sc
 
 3. How the current hero casts all types of spells ( hero target, minion target etc.). 
 
-1-Press on any spell in your hand. 
+     1-Press on any spell in your hand. 
 
-2- Once you press, the card of the spell will be displayed in a larger scale (zoom panel) in order to see the properties of the card more clearly. 
+     2- Once you press, the card of the spell will be displayed in a larger scale (zoom panel) in order to see the properties of the card more clearly. 
 
-3-If you decided on casting the spell, press on the zoom panel itself. 
+     3-If you decided on casting the spell, press on the zoom panel itself. 
 
-i.If the spell requires a target, a message saying “choose the target” will be displayed. Press on the target (either a minion or a hero) and you will see the effect of casting the spell. 
+          i.If the spell requires a target, a message saying “choose the target” will be displayed. Press on the target (either a minion or a hero) and you will see the effect of               casting the spell. 
 
-ii.If the spell does not require a target, press on the zoom panel and you will see the effect of casting the spell. 
+          ii.If the spell does not require a target, press on the zoom panel and you will see the effect of casting the spell. 
 
-Otherwise, press on any other button and the zoom panel will disappear. 
+          Otherwise, press on any other button and the zoom panel will disappear. 
 
 4. How the current hero uses his minions to attack the opponent’s minion. 
-
+ 
  
 
-1-Press on any minion in your field to attack with. 
+     1-Press on any minion in your field to attack with. 
 
-2-A message will be displayed to instruct you to choose the target. 
+     2-A message will be displayed to instruct you to choose the target. 
 
-3-Choose the target and you will see the effect of the attack on both the attacker and the attacked. 
+     3-Choose the target and you will see the effect of the attack on both the attacker and the attacked. 
 
  
 
@@ -69,7 +69,7 @@ Otherwise, press on any other button and the zoom panel will disappear.
 
  
 
-Press the yellow “End Turn” at the right of the screen, Easy J. 
+     Press the yellow “End Turn” at the right of the screen, Easy J. 
 
  
 
