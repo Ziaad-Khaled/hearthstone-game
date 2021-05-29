@@ -83,10 +83,6 @@ The current Hero hand and field is at a fixed half (bottom half). The field of t
 
  
 
-7. Any other details that might be specific to your own implementation. 
-
- 
-
 -The properties of the cards in the current hero hand are not very clear. That is why there is a zoom panel that zooms the card once you press on it before you decide to play it. If you finally decided to play it, then press on the zoom panel itself. 
 
  
